@@ -8,7 +8,7 @@ Esta é uma API simples para gerenciamento de usuários, construída com **Expre
 
 - Node.js (versão 14 ou superior)  
 - npm ou yarn  
-- Banco de dados configurado com Prisma (PostgreSQL, MySQL, SQLite, etc.)
+- Banco de dados configurado com Prisma (MongoDB)
 
 ---
 
