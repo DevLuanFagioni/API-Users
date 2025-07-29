@@ -1,4 +1,4 @@
-# API de Usuários com Express e Prisma
+# API de Usuários com Express e Prisma + MongoDB
 
 Esta é uma API simples para gerenciamento de usuários, construída com **Express.js** e **Prisma ORM**.
 
